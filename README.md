@@ -1,2 +1,2 @@
 # FiveM
-Fivem API | Deno Package
+FiveM API | Deno Package
